@@ -1,0 +1,177 @@
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?num1=10&num2=5 from ::1","service":"calc-service"}
+{"level":"error","message":"Invalid input: Both parameters must be numbers","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?a=10&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Addition: 10 + 5 = 15","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?a=11&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Addition: 11 + 5 = 16","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?a=11&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Addition: 11 + 5 = 16","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?a=12&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Addition: 12 + 5 = 17","service":"calc-service"}
+{"level":"info","message":"Request: GET /substract?a=12&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET /substract?a=12&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET /subtract?a=12&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Subtraction: 12 - 5 = 7","service":"calc-service"}
+{"level":"info","message":"Request: GET /multiply?subtract?a=12&b=5 from ::1","service":"calc-service"}
+{"level":"error","message":"Invalid input: Both parameters must be numbers","service":"calc-service"}
+{"level":"info","message":"Request: GET /multiply?a=12&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Multiplication: 12 * 5 = 60","service":"calc-service"}
+{"level":"info","message":"Request: GET /divide?a=12&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Division: 12 / 5 = 2.4","service":"calc-service"}
+{"level":"info","message":"Request: GET /divide?a=12&b=0 from ::1","service":"calc-service"}
+{"level":"error","message":"Cannot divide by zero","service":"calc-service"}
+{"level":"info","message":"Request: GET /divide?a=12&b=2 from ::1","service":"calc-service"}
+{"level":"info","message":"Division: 12 / 2 = 6","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?num1=5&num2=3 from ::1","service":"calc-service"}
+{"level":"error","message":"Invalid input: Both parameters must be numbers","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?a=11&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Addition: 11 + 5 = 16","service":"calc-service"}
+{"level":"info","message":"Request: GET /favicon.ico from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET /power?a=11&b=5 from ::1","service":"calc-service"}
+{"level":"error","message":"Invalid input: Parameters must be numbers","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?a=11&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Addition: 11 + 5 = 16","service":"calc-service"}
+{"level":"info","message":"Request: GET /power?a=11&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Exponentiation: 11 ^ 5 = 161051","service":"calc-service"}
+{"level":"info","message":"Request: GET /power?a=2&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Exponentiation: 2 ^ 5 = 32","service":"calc-service"}
+{"level":"info","message":"Request: GET /sqrt?a=2 from ::1","service":"calc-service"}
+{"level":"error","message":"Invalid input: Parameters must be numbers","service":"calc-service"}
+{"level":"info","message":"Request: GET /squrt?a=2 from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET /sqrt?b=2 from ::1","service":"calc-service"}
+{"level":"error","message":"Invalid input: Parameters must be numbers","service":"calc-service"}
+{"level":"info","message":"Request: GET /sqrt?a=9 from ::1","service":"calc-service"}
+{"level":"error","message":"Invalid input: Parameters must be numbers","service":"calc-service"}
+{"level":"info","message":"Request: GET /sqrt?a=16&b=25 from ::1","service":"calc-service"}
+{"level":"info","message":"Square Root: √16 = 4, √25 = 5","service":"calc-service"}
+{"level":"info","message":"Request: GET /modulo?a=10&b=3 from ::1","service":"calc-service"}
+{"level":"info","message":"Modulo: 10 % 3 = 1","service":"calc-service"}
+{"level":"info","message":"Request: GET /modulo?a=7&b=0 from ::1","service":"calc-service"}
+{"level":"error","message":"Cannot divide by zero","service":"calc-service"}
+{"level":"info","message":"Request: GET /sqrt?a=-9&b=4 from ::1","service":"calc-service"}
+{"level":"error","message":"Cannot find square root of a negative number","service":"calc-service"}
+{"level":"info","message":"Request: GET /sqrt?a=16&b=25 from ::1","service":"calc-service"}
+{"level":"info","message":"Square Root: √16 = 4, √25 = 5","service":"calc-service"}
+{"level":"info","message":"Request: GET /power?a=2&b=3 from ::1","service":"calc-service"}
+{"level":"info","message":"Exponentiation: 2 ^ 3 = 8","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?a=11&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Addition: 11 + 5 = 16","service":"calc-service"}
+{"level":"info","message":"Request: GET /favicon.ico from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?a=11&b=20 from ::1","service":"calc-service"}
+{"level":"info","message":"Addition: 11 + 20 = 31","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?a=11&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Addition: 11 + 5 = 16","service":"calc-service"}
+{"level":"info","message":"Request: GET /sqrt?a=16&b=25 from ::1","service":"calc-service"}
+{"level":"info","message":"Square Root: √16 = 4, √25 = 5","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::1","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?a=11&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Addition: 11 + 5 = 16","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?a=11&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Addition: 11 + 5 = 16","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: HEAD / from ::1","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:172.18.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:172.18.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?a=11&b=5 from ::ffff:172.18.0.1","service":"calc-service"}
+{"level":"info","message":"Addition: 11 + 5 = 16","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?a=11&b=6 from ::ffff:172.18.0.1","service":"calc-service"}
+{"level":"info","message":"Addition: 11 + 6 = 17","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::ffff:127.0.0.1","service":"calc-service"}
+{"level":"info","message":"Service running on port 4000","service":"calc-service"}
+{"level":"info","message":"Request: GET / from ::1","service":"calc-service"}
+{"level":"info","message":"Request: GET /add?a=11&b=5 from ::1","service":"calc-service"}
+{"level":"info","message":"Addition: 11 + 5 = 16","service":"calc-service"}
